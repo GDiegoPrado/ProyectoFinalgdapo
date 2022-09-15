@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="diseño4.css">
+    <title>Lapicero 4 en 1<</title>
+</head>
+<body>
+<div class="navbar">  
+  <a href="#">  </a> 
+</div>
+</body><br>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-6">
+                <img src="../img/4-1.jpg" alt="..." width="600" height="600">
+            </div>
+            <div class="col-6">
+            <div class="row text-left m-b-20">
+            <font face="Arial" size="6"><strong>BOLIGRAFO BIC 4 EN UNO FASHION</strong></font><br><br>
+                <li>Precio: Q11.35</li> 
+                <li>Material: Plástico</li>
+                <li>Medida de ancho: 6.9 cm</li>
+                <li>Tamaño (Gramaje, Volumen): 1.3 Cm</li>
+                <li>Marca: Bic</li>
+                <li>Medida de altura: 3.2 cm</li>
+                <li>Medida de profundidad: 14.5 cm</li>
+                <li>Uso recomendado: Oficina/Casa/Colegio</li>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div class="text-center">
+    <a href="../productos.php" style="background-color:black; border-color:white; color:white" class="btn btn-primary" align="center">SALIR A PRODUCTOS / SERVICIOS</a>
+    </div>
+    <hr color="black" size="5px">
+      <h6 align="left" width="100%">PBX: xxxx-xxxx - Dirección: xxxxxxxxxxxxxxxxxxxxxxxxㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤCarnet: 2022-40434ㅤNombre: Gelder Diego Alejandro Prado Ortiz</h6>
+</body>
+</html>
